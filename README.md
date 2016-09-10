@@ -11,7 +11,7 @@ TODO
 TODO
 
 ### all_photos_count (bash)
-TODO
+Counts the total number of pictures analyzed in the project, by counting the total number of lines in each all_photos.txt file produced by iterate_photos.sh (each photo is logged on a new line.) 
 
 ### all_folders (bash)
 TODO
