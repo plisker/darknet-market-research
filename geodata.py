@@ -1,5 +1,8 @@
-# from https://gist.github.com/moshekaplan/5330395
-# which was derived from https://gist.github.com/erans/983821
+# Script to output the latitude and longitude from the metadata of images.
+
+# Credit for main script to: Eran Sandler (https://gist.github.com/erans) and Moshe Kaplan (https://gist.github.com/moshekaplan)
+# See: https://gist.github.com/moshekaplan/5330395
+# and: https://gist.github.com/erans/983821
 
 
 ## Use Python2.7, NOT Python3
