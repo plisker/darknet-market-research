@@ -14,4 +14,4 @@ TODO
 Counts the total number of pictures analyzed in the project, by counting the total number of lines in each all_photos.txt file produced by iterate_photos.sh (each photo is logged on a new line.)
 
 ### all_folders (bash)
-From the main dnmarchive folder, enters each market's folder and runs iterate_photos.sh.
+From the main dnmarchives folder, enters each market's folder and runs iterate_photos.sh.
