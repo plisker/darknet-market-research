@@ -16,4 +16,6 @@ if __name__ == "__main__":
 
     file = sys.argv[1]
     make, model = get_make_and_model(file)
-    print sys.argv[1], make, model
+    print "File:", sys.argv[1]
+    print "Make:", make
+    print "Model:", model
